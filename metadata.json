@@ -1,0 +1,5 @@
+{
+  "name": "AI Straw Manager",
+  "description": "Cloud-native hybrid AI-DEM-RSM platform for sustainable rice-wheat residue management. Features real-time IoT integration and physics-informed advisory.",
+  "requestFramePermissions": []
+}
